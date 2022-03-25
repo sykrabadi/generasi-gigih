@@ -1,0 +1,19 @@
+table, th, td{
+        background-color: aqua;
+        border: 2px solid white;
+    }
+th, td{
+        padding: 5px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+
+form label{
+        padding: 4px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+input{
+        padding: 4px;
+        margin: 4px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
